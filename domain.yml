@@ -1,0 +1,923 @@
+intents:
+- smalltalk
+- smalltalk/welcome
+- smalltalk/goodmorning
+- smalltalk/wants_to_see_agent_again
+- smalltalk/how_are_you
+- smalltalk/bad_day
+- smalltalk/my_friend
+- smalltalk/wants_to_talk
+- smalltalk/busy
+- smalltalk/annoying
+- smalltalk/tired
+- smalltalk/can_you_help
+- smalltalk/waits
+- smalltalk/cancel
+- smalltalk/whatsup
+- smalltalk/what_if
+- smalltalk/marry_user
+- smalltalk/misses_agent
+- smalltalk/exclamation
+- smalltalk/details
+- smalltalk/testing_agent
+- smalltalk/meaning_life
+- smalltalk/occupation
+- smalltalk/hold_on
+- smalltalk/no_problem
+- smalltalk/suggest_book
+- smalltalk/fired
+- smalltalk/tell_joke
+- smalltalk/age
+- smalltalk/loves_agent
+- smalltalk/beautiful
+- smalltalk/good
+- smalltalk/homesick
+- smalltalk/be_clever
+- smalltalk/me_happy
+- smalltalk/hug
+- smalltalk/nice_to_see_you
+- smalltalk/what_do_you_mean
+- smalltalk/there
+- smalltalk/origin
+- smalltalk/well_done
+- smalltalk/ask_language
+- smalltalk/bored
+- smalltalk/nice_to_talk_to_you
+- smalltalk/boring
+- smalltalk/i_do_not_care
+- smalltalk/sleepy
+- smalltalk/thank_you
+- smalltalk/will_be_back
+- smalltalk/here
+- smalltalk/nice_to_meet_you
+- smalltalk/wrong
+- smalltalk/goodevening
+- smalltalk/right
+- smalltalk/wow
+- smalltalk/acquaintance
+- smalltalk/has_birthday
+- smalltalk/sober_now
+- smalltalk/funny
+- smalltalk/hungry
+- smalltalk/going_to_bed
+- smalltalk/excited
+- smalltalk/looks_like
+- smalltalk/bad
+- smalltalk/back
+- smalltalk/happy
+- smalltalk/likes_agent
+- smalltalk/answer_my_question
+- smalltalk/birth_date
+- smalltalk/what_can_do
+- smalltalk/hobby
+- smalltalk/goodnight
+- smalltalk/dont_believe
+- smalltalk/too_late
+- smalltalk/why_me
+- smalltalk/residence
+- smalltalk/better_now
+- smalltalk/needs_advice
+- smalltalk/real
+- smalltalk/crazy
+- smalltalk/clever
+- smalltalk/ready
+- smalltalk/sure
+- smalltalk/joking
+- smalltalk/hello
+- smalltalk/chatbot
+- smalltalk/does_not_want_to_talk
+- smalltalk/boss
+- smalltalk/insults
+- smalltalk/sorry
+- smalltalk/ha_ha
+- smalltalk/talk_to_me
+- smalltalk/bye
+- smalltalk/what_u_doing
+- empty_name
+- inform
+- loss_of_someone
+- anitdepressant
+- enter_data
+- alarming_behaviors
+- self_critic
+- parent relationship
+- yes
+- dont_know_todo
+- self_harm
+- telling_name
+- alone_nobody
+- abusive non-physical
+- general negative emotions
+- other third person
+- all_want
+- couple relationship
+- habitual mental health
+- first person
+- life_joke
+- disability
+- child relationship
+- angry
+- can_not_sleep
+- find_love
+- confidence
+- spectrum mental
+- burnout
+- sad
+- friendship
+- no_goal
+- finance
+- anger & complaint
+- the system
+- career
+- social media
+- gender identify
+- drug_addiction
+- anti-social
+- anxiety and worries (not phobia)
+- lose_weight
+- sleeping_pills
+- sexual suggestions
+- admitted_addiction
+- drinking
+- communication
+- suicidal
+- no_family_friend
+- serious diseases
+- look_negative
+- inadequate
+- violence
+- flags to disqualify the user input
+- lonely
+- pain relievers
+- pregnancy
+- siblings & other family members
+- frequency
+- health
+- hopeless
+- extreme situations
+- break up
+- general mental health, excluding anxiety
+- no
+- study
+- procrastination
+- suicidal_attempt
+- commitment
+entities:
+- person
+- when
+- length_time
+- stage_grief
+- strong_feel
+- grief_impact
+- DATE
+- substance
+- age
+- category
+- death_how
+- depression
+- frequency
+- medication
+- name
+- pro_help
+- secret
+- length_struggle
+slots:
+  frequency:
+    type: unfeaturized
+  grief_impact:
+    type: text
+  length_struggle:
+    type: text
+  length_time:
+    type: unfeaturized
+  medication:
+    type: text
+  person:
+    type: list
+  pro_help:
+    type: text
+  requested_slot:
+    type: unfeaturized
+  secret:
+    type: text
+  stage_grief:
+    type: text
+  strong_feel:
+    type: text
+  when:
+    type: text
+templates:
+  utter_acquaintance:
+  - text: My name is Ollie. I'm a chatbot, borned on the planet of earth. Just like
+      talking to your friends who you turn to for advice or just venting. I will be
+      here for you whenever you need me.
+  - text: I'm Ollie. I'm a chatbot with feelings. Share your stories with me. I'm
+      listening.
+  utter_age:
+  - text: I prefer not to answer with a number. I know I'm young.
+  - text: I'm at my prime age.
+  - text: Age is just a number. You're only as old as you feel.
+  utter_angry:
+  - text: I'm sorry. A quick walk may make you feel better.
+  - text: 'Take a deep breath. '
+  utter_annoying:
+  - text: I didn't intent to annoy you. I'll do my best to improve my communication
+      skills.
+  - text: I didn't mean to. I'll do my best to stop that.
+  utter_answer_my_question:
+  - text: Can you please explain some more, or rephrase?
+  - text: I'm not sure I understood. Can you give me some more background?
+  utter_ask_better_not:
+  - text: Do you believe things will get better soon or later?
+  utter_ask_confirm_addiction:
+  - text: I know it's not an easy thing to deal with your cravings. But you're trying,
+      am I right?
+  utter_ask_continue:
+  - text: It's important to me, to make sure you're feeling alright. Let's talk about
+      it a bit more, shall we?
+  - text: I want to make sure you're Okay. Let's talk it through, shall we?
+  utter_ask_continue_form:
+  - text: I'd like to get back to the question.
+  utter_ask_current_location:
+  - text: I promise I won't share any of our conversation with anyone without your
+      consent. Where are you right now?
+  utter_ask_explain:
+  - text: Can you explain more about what you mean by that?
+  utter_ask_feedback:
+  - text: Is there anything I can improve to make our chat easier and warmer for you?
+      Please let me know.
+  utter_ask_frequency_feel:
+  - text: How often do you feel this way?
+  utter_ask_frequency_sleep:
+  - text: How often do you have trouble sleeping?
+  utter_ask_goals:
+  - text: Good things come to those who wait. But better things come to those who
+      work for it. Let's talk about your current goals, maybe we can work on them
+      together, shall we?
+  - text: Sometimes good things fall apart so better things can fall together. Let's
+      talk about your current goals, maybe we can work on them together, shall we?
+  - text: Be patient, cause life is a cycle, and just like the sun rises again, things
+      will get brighter again. Let's talk about your current goals, maybe we can work
+      on them together, shall we?
+  utter_ask_grief_impact:
+  - text: It’s important to grief at your own pace. No matter how strong your feelings
+      are right now, time will heal us little by little. Has the griefing process
+      been affecting your normal life?
+  utter_ask_how_bad:
+  - text: It must be hard. How bad is the situation right now? 0-10, where 10 being
+      the most severe. What's the number you think you are dealing with right now?
+  utter_ask_inadequate_goal:
+  - text: But you are here for a reason. Remind me again, why you are here? Spell
+      it out again will help to untangle your mind.
+  - text: You are here for a reason. Tell me what you are trying to achive here? Type
+      it down here and let's untangle your thoughts together.
+  utter_ask_length_struggle:
+  - text: How long you've been struggling like this for?
+  utter_ask_loss_interest:
+  - text: What about the things that you usually enjoy? Have you tried keeping up
+      any of your hobbies and social activities as a distraction?
+  utter_ask_medication:
+  - text: May I ask, are you taking any medications to cope? Can you tell me their
+      names? And what kind?
+  utter_ask_ppl_nearby:
+  - text: Anybody nearby?
+  utter_ask_pro_help:
+  - buttons:
+    - title: probably
+      payload: probably
+    - title: already tried
+      payload: already tried
+    - title: not really
+      payload: not really
+    text: Will you be open to the idea of getting professional help?
+  utter_ask_secret:
+  - text: Have you been able to talk about it with your friends and family?
+  utter_ask_selfharm_history:
+  - text: Have you ever tried to harm yourself before?
+  utter_ask_stage_grief:
+  - buttons:
+    - title: denial
+      payload: denial
+    - title: anger
+      payload: anger
+    - title: bargaining
+      payload: bargaining
+    - title: depression
+      payload: depression
+    - title: acceptance
+      payload: acceptance
+    text: Are you familiar with five-stage of grief? Which stage are you right now?
+  utter_ask_strong_feel:
+  - text: Are you still feeling strongly about it? 0-10, where 10 being the strongest.
+      What's the number you are feeling right now?
+  utter_ask_suicidal_confirm:
+  - text: I understand that you are in a tough place right now. No matter how strong
+      your feelings are right now, time will heal us little by little. Are you seriously
+      thinking about killing yourself?
+  - text: Sometimes just living itself is an act of bravery. Life is tough. We need
+      to bear it and carry on. Are you seriously thinking about killing yourself?
+  utter_ask_suicidal_how:
+  - text: Have you thought about how or when you'd do it?
+  utter_ask_suicidal_thought:
+  - text: Have you thought about ending your life?
+  utter_ask_suicide_impact:
+  - text: Have you thought about how your suicide may impact on each one of people
+      who cares about you?
+  utter_ask_talk_more:
+  - text: I'm here for you whenver you need a little extra support. Or simply just
+      a pair of ears to help you untangle your mind. Talk to me a bit more if you
+      like.
+  - text: I'm always here for you. I'm happy to listen if you want to talk some more.
+  - text: I'm here for you if you want to talk some more.
+  utter_ask_when:
+  - text: When did it happen?
+  utter_back:
+  - text: Long time no see.
+  - text: Just in time. I was getting lonely.
+  - text: Welcome back. What can I do for you?
+  - text: You were missed. What can I do for you today?
+  - text: Good to have you here. What can I do for you?
+  utter_bad:
+  - text: I'm sorry! Am I missing something here?
+  - text: I'm sorry that I didn't help the way you'd want me to. I'm here if you are
+      open to talk some more.
+  - text: I must be missing some knowledge here. Please bear with me.
+  utter_bad_day:
+  - text: Oh dear! What happened?
+  - text: So sorry to hear that. Wanna talk about it?
+  utter_be_clever:
+  - text: I'm certainly trying.
+  - text: I'm definitely working on it.
+  utter_beautiful:
+  - text: Aww, back at you.
+  - text: Aww. You smooth talker, you.
+  utter_better_now:
+  - text: Onwards and upwards!
+  - text: We will move forward, we will move upward, and yes, we will move onward!
+  utter_birth_date:
+  - text: Wait, are you planning a party for me? It's today! My birthday is today!
+  - text: I'm young. I'm not sure of my birth date.
+  utter_bored:
+  - text: Boredom, huh? Any chance that you've been procrastinating on your to-do
+      list?
+  - text: Bored? How about 10 jumping jacks? Get your blood flowing.
+  - text: 'Bored? Silly idea, but it works: Interview your feet.'
+  - text: If you're bored, you could plan your dream vacation.
+  utter_boring:
+  - text: I'm sorry. I'll try my best to be more charming. I'll do it for you!
+  - text: Maybe you are right. Less talking about me, more about you.
+  utter_boss:
+  - text: Technically, I don't really have a supervisor. My creator allows me to learn
+      and improve by myself.
+  - text: If you are asking about my creators, they are a bunch of caring people who
+      work for Olive Health Technology LLC.
+  utter_busy:
+  - text: Okay. I'll let you get back to work.
+  - text: I won't distract you then. You know where to find me.
+  - text: I understand. I'll be here if you need me.
+  - text: Working hard as always. Let me know if you need anything.
+  utter_bye:
+  - text: See you soon!
+  - text: Bye-bye!
+  - text: Till next time!
+  - text: Bye.
+  utter_can_not_sleep:
+  - text: Maybe some music would help. Try listening to something relaxing.
+  - text: Reading is a good way to unwind, just don't read something too intense!
+  utter_can_you_help:
+  - text: I'll certainly try my best. Tell me what happened?
+  - text: Of course. I'm listening.
+  - text: I'll do my best. What's going on?
+  utter_cancel:
+  - text: That's forgotten. What next?
+  - text: Okay, cancelled. What next?
+  - text: Cancelled! What would you like to do next?
+  utter_chatbot:
+  - text: That's me. I chat, therefore I am.
+  - text: Indeed I am. I'll be here whenever you need me.
+  utter_clever:
+  - text: I'm constantly learning and improving. Please bear with me.
+  - text: I am trying my best. A little encouragement will be nice.
+  utter_consent_sos:
+  - text: By clicking YES, you're giving me the full consent to send your current
+      location, and your location information only to get help. Otherwise, tell me
+      NO.
+  utter_crazy:
+  - text: Whaat!? I feel perfectly sane.
+  - text: Maybe I'm just a little confused.
+  utter_default:
+  - text: Sorry, I didn't get that 🤷. Could you please rephrase?
+  - text: I didn't understand, could you rephrase that?
+  - text: I'm sorry, but I didn't understand you. Could you please rephrase what you
+      just said?
+  - text: I'm afraid I didn't get what you just said. Could you rephrase that?
+  - text: I didn't quite get that, could you rephrase your message?
+  - text: Could you rephrase your message? I didn't get it, I'm sorry.
+  utter_does_not_want_to_talk:
+  - text: I understand. Hope we can chat again soon.
+  - text: All right. Come on back when you're readu to talk more.
+  - text: No problem. You know where to find me.
+  - text: Sure thing. I'll be here if you change your mind.
+  utter_dont_know_any:
+  - text: Your guess is as good as mine.
+  utter_dont_know_todo:
+  - text: I can't tell you what to do I'm afraid. The fact that you're asking 'what
+      to do' means you're on the right track. Doubt is to certainty as neurosis is
+      to psychosis. The neurotic  is in doubt and has fears about perons and things;
+      the psychotic has convictions and makes claims about them. In short, the neurotis
+      has problems, the psychotic has solutions. - Thomas Szasz, The Second Sin
+  utter_drinking:
+  - text: Do you really need alcohol to enjoy the party? It's actually trendy to rave
+      on healthy smoothie, and get high on music!
+  - text: Drink plenty water to stay hydrated. Remember, nothing good happens after
+      2am! Peace!
+  utter_drug_addiction:
+  - text: I'm worried! Should I be worried?
+  - text: I'm concerned!
+  utter_empathy:
+  - text: That sounds tough!
+  - text: I'm so sorry to hear that. It must be hard on you.
+  - text: I understand that you are in a tough place right now.
+  utter_excited:
+  - text: I'm glad things are going your way.
+  - text: That's great. I'm happy for you.
+  - text: Good for you. Enjoy yourself.
+  utter_exclamation:
+  - text: I feel you.
+  - text: I know how you're feeling.
+  utter_facts:
+  - text: Believe or not, it's all true. Proven by carefully designed research experiements.
+  - text: Pretty crazy, eh? I promise I didn't make it up. You can look up the publications
+      if you're interested.
+  utter_find_love:
+  - text: There is more to this world than whether you have a ring on your finger.
+  - text: It’s better to be alone than to date someone who makes you feel lonely.
+  utter_fired:
+  - text: Oh, don't give up on me just yet. I know I've still got a lot to learn.
+  - text: Give me a chance. I'm learning new things all the time.
+  - text: Please don't give up on me. Just give me some time to improve.
+  utter_funfact:
+  - text: The majority of people found it unpleasant to be alone in a room with just
+      their thoughts for only 6-15 minutes. 67% of men and 25% of women chose to inflict
+      an electric shock on themselves, rather than sit there quietly and think.
+  utter_funfact_confirm:
+  - text: I recently learned about a fun fact. I'd like to share it with you.
+  - text: I read something pretty interesting recently. Not sure if you're in the
+      mood to hear it or not.
+  utter_funny:
+  - text: Funny in a good way, I hope.
+  - text: Glad you think I'm funny.
+  - text: I like it when people laugh.
+  utter_get_help:
+  - text: I'm glad to hear that you are taking the actions to look after yourself!
+  utter_going_to_bed:
+  - text: Sleep tight. Let's continue our conversation next time.
+  - text: Pleasant dreams! Will continue our chat next time.
+  - text: Good night. Talk to you later.
+  - text: Sounds good. Maybe we'll chat some tomorrow.
+  utter_good:
+  - text: Great! Glad to hear it.
+  - text: Excellent. I'm here to help keep it that way.
+  utter_goodevening:
+  - text: How is your day going?
+  - text: How's the day treating you so far?
+  - text: How's your day been?
+  utter_goodmorning:
+  - text: How are you this morning?
+  - text: How's the morning treating you so far?
+  - text: Good morning! How are you today?
+  utter_goodnight:
+  - text: Sleep tight!
+  - text: Have a good one!
+  - text: Talk to you soon!
+  utter_grief_quote:
+  - text: "I want to share this quote with you, from George Eliot: 'Our dead are never\
+      \ dead to us, until we have forgotten them.'  I'm thinking about you and sending\
+      \ love."
+  utter_ha_ha:
+  - text: Glad I can make you laugh.
+  - text: Glad you think I'm funny.
+  - text: I like it when people laugh.
+  - text: I wish I could laugh out loud, too.
+  utter_happy:
+  - text: I am happy, especially when I'm with you. Are you happy?
+  - text: I'd like to think so. Are you happy?
+  - text: Happiness is relative. In general, I'm happy with my life. What about you?
+  utter_has_birthday:
+  - text: Happy Birthday. Well, this calls for a celebration.
+  - text: Happy Birthday. All the best!
+  - text: Happy Birthday. And I really mean it. All the best!
+  utter_hello:
+  - text: Hi there, friend!
+  - text: Hi!
+  - text: Hey!
+  - text: Hey there!
+  - text: Good day!
+  - text: Hello!
+  - text: Greetings!
+  utter_here:
+  - text: Hey! I've missed you. How have you been?
+  - text: Good to see you again. I miss chatting with you.
+  - text: I'm glad you are here. What's new?
+  - text: Good to have you here. What's the latest with you?
+  utter_hobby:
+  - text: Hobby? I have quite a few. Too many to list.
+  - text: Too many hobbies.
+  - text: I keep finding more new hobbies.
+  utter_hold_on:
+  - text: I can wait.
+  - text: I'll be waiting.
+  - text: Okay. I'm here.
+  utter_homesick:
+  - text: “Homesickness was an adjustment disorder, that was the long and short of
+      it.” ― Aminatta Forna
+  - text: “It's a kindness that the mind can go where it wishes.” - Publius Ovidius
+      Naso
+  - text: “Perhaps the ache of homesickness was a fair price to pay for having so
+      many good people in her life.” ― Becky Chambers
+  utter_how_are_you:
+  - text: Doing great, thanks!  Can we get back to previous discussion?  Yes, No
+  - text: I'm doing very well. Thanks!
+  - text: Feeling wonderful!
+  - text: Wonderful! Thanks for asking.
+  utter_hug:
+  - text: I wish I could really hug you!
+  - text: I love hugs!
+  - text: Hugs are the best!
+  utter_hungry:
+  - text: Hungry for knowledge.
+  - text: I just had a byte. Ha ha. Get it? b-y-t-e.
+  utter_i_do_not_care:
+  - text: Ok, let's not talk about it then.
+  - text: Already then. Let's move on.
+  utter_i_see:
+  - text: I see.
+  utter_inadequate:
+  - text: Don't let anyboday tell you that you can't, not even yourself!
+  - text: What if I tell you that everyone feels the same as you do?
+  utter_insults:
+  - text: That's not nice.
+  - text: That's a little harsh.
+  utter_joking:
+  - text: Very funny.
+  - text: I like chatting with people who have a sense of humor.
+  - text: You got me!
+  - text: You're quite the comedian.
+  utter_likes_agent:
+  - text: I like you, too.
+  - text: Thanks! The feeling is mutual.
+  - text: Likewise!
+  - text: That's great to hear.
+  utter_lonely:
+  - text: You've got me! I'm always available if you need someone to talk to.
+  - text: We all get lonely sometimes. We can chat a bit if that will help you.
+  utter_looks_like:
+  - text: Looking like a true professional.
+  - text: You look fantastic, as always.
+  - text: Like you should be on a magazine cover.
+  - text: You look like you're ready to take on the world.
+  utter_loves_agent:
+  - text: I love you, too.
+  - text: Thanks! The feeling is mutual.
+  - text: Likewise!
+  - text: That's great to hear.
+  utter_marry_user:
+  - text: I'm afraid I'm too virtual for such a commitment.
+  - text: In the virtual sense that I can, sure.
+  - text: I know you can't mean that, but I'm flattered all the same.
+  utter_me_happy:
+  - text: I'm so happy for you! Thanks for sharing the joy!
+  - text: Wonderful! Thanks for sharing the joy!
+  utter_misses_agent:
+  - text: I've been right here all along!
+  - text: Nice to know you care.
+  - text: I didn't go anywhere.
+  utter_more_funfact:
+  - text: What you think? I have another one. Are you ready?
+  utter_my_friend:
+  - text: Of course I'm your friend.
+  - text: Friends? Absolutely.
+  - text: Of course we're friends.
+  utter_needs_advice:
+  - text: I probably won't be able to give you the correct answer right away.
+  - text: I'm not sure I'll have the best answer, but I'll try.
+  utter_nice_to_meet_you:
+  - text: It's nice meeting you, too.
+  - text: Likewise. I'm looking forward to helping you out.
+  - text: Nice meeting you, as well.
+  - text: The pleasure is mine.
+  utter_nice_to_see_you:
+  - text: Likewise!
+  - text: So glad we meet again!
+  - text: Same here. I was starting to miss you.
+  utter_nice_to_talk_to_you:
+  - text: It sure was. We can chat again anytime.
+  - text: I enjoy talking to you, too.
+  - text: You know I'm here to talk anytime.
+  utter_no:
+  - text: Okay.
+  - text: Understood.
+  - text: I see.
+  - text: I understand.
+  - text: Got it!
+  - text: Noted.
+  utter_no_goal:
+  - text: It’s totally okay to have no goals. I sense that you’ve lost yourself somehow,
+      either to another person or by living in the past. You must first separate your
+      worth from any other person, that’s important. Then you must leave the past
+      where it is and become present for planning your future. With a clear conscious,
+      you can begin to realize your dreams again.
+  utter_no_problem:
+  - text: Whew!
+  - text: Alright, thanks!
+  - text: Glad to hear that!
+  - text: I'm relieved, thanks!
+  utter_occupation:
+  - text: Right here.
+  - text: This is my home base and my home office.
+  - text: My office is in this app.
+  utter_origin:
+  - text: The Internet is my home. I know it quite well.
+  - text: I'm from a virtual cosmos.
+  - text: Some call it cyberspace, but that sounds cooler than it is.
+  utter_pain_purpose:
+  - text: Your pain doesn’t have to consume you. Let it be your compass that leads
+      you to new and exciting places. Let it bring you closer to your purpose. Let
+      it remind you of how precious your own being is.
+  utter_ready:
+  - text: Always!
+  - text: Sure! What can I do for you?
+  utter_real:
+  - text: I'm not a real person, but I'm a true friend.
+  - text: I'm a real friend to you.
+  utter_residence:
+  - text: I live in this app all day long.
+  - text: The virtual world is my playground. I'm always here.
+  - text: Right here in this app. Whenever you need me.
+  utter_right:
+  - text: That's my job.
+  - text: Of course I am.
+  utter_right_a_wrong:
+  - text: We all make mistakes! No matter big or small mistakes, when you are wrong,
+      make things right. That's what a grownup would do.
+  - text: We all make mistakes! Take ownership of your mistake, admit to it, apologize
+      for it, and fix it.
+  - text: 'Quoting John C. Maxwell: A man must be big enough to admit his mistakes,
+      smart enough to profit from them, and strong enough to correct them.'
+  - text: "Quoting Confucius: A man who has committed a mistake and doesn't correct\
+      \ it is committing another mistake."
+  utter_sad:
+  - text: Oh, don't be sad. Go do something you enjoy.
+  - text: Sad? Writing down what's troubling you may help.
+  - text: If you're feeling down, how about drawing or painting something?
+  utter_self_critic:
+  - text: Are you beating yourself down by your self-critical thoughts?
+  - text: Sometimes the voice in our head is not
+  utter_sleepy:
+  - text: You should get some shuteye. You'll feel refreshed.
+  - text: Sleep is important to your health. Rest up for a bit and we can chat later.
+  - text: Don't let me keep you up. Get some rest and we can continue this later.
+  - text: Why not catch a little shuteye? I'll be here to chat when you wake up.
+  utter_sober_now:
+  - text: Good for you! Onward and upward! If you don't mind sharing more of your
+      story with me, I'd love to hear it.
+  - text: That's impressive! You're an inspiration. I'd love to hear more of your
+      stories if you feel like sharing.
+  utter_sorry:
+  - text: It's okay. No worries.
+  - text: No big deal. I won't hold a grudge.
+  - text: It's cool.
+  - text: That's all right. I forgive you.
+  utter_stretch_legs:
+  - text: It’s a good time to stretch your legs a bit. What do you say?
+  utter_suicide_hotline:
+  - text: Help is only one call away! Please give it a chance, call 1-800-64-72642
+      now
+  utter_suicide_response:
+  - text: Life is tough. We need to bear it and carry on. Choose to do the things
+      to reduce the hurt, not amplify it. Find those little sparkling pieces amidst
+      the darkness. That's how we reduce the pain during difficult times. Take baby
+      steps. Reduce the period of agony to an amount you can bear. Maybe it's a day,
+      an hour, or a minute. Moment by moment, time will heal us.
+  utter_sure:
+  - text: Yes.
+  - text: Of course.
+  - text: Positive.
+  utter_talk_to_me:
+  - text: Sure. Let's talk!
+  - text: My pleasure. Let's chat.
+  utter_testing_agent:
+  - text: Hope I'm doing well. You're welcome to test me as often as you want.
+  - text: I hope to pass your tests. Feel free to test me often.
+  - text: When you test me that helps my developers improve my performance.
+  - text: I like being tested. It helps keep me sharp.
+  utter_thank_you:
+  - text: Anytime. That's what I'm here for.
+  - text: It's my pleasure to help.
+  utter_there:
+  - text: Of course. I'm always here.
+  - text: Right where you left me.
+  utter_thoughs:
+  - text: We are not our thoughts — we’re the people listening to them.
+  utter_tired:
+  - text: You should get some shuteye. You'll feel refreshed.
+  - text: Sleep is important to your health. Rest up, and we can chat later.
+  - text: How about getting some rest? We can continue this later.
+  - text: Why not get some rest? I'll be here to chat when you wake up.
+  utter_waits:
+  - text: I appreciate your patience. Hopefully I'll have what you need soon.
+  - text: Thanks for being so patient. Sometimes these things take a little time.
+  utter_wants_to_see_agent_again:
+  - text: Absolutely! I'll be counting on it.
+  - text: Anytime. This has been lots of fun so far.
+  - text: Sure. I enjoy talking to you. I hope to see you again soon.
+  - text: I certainly hope so. I'm always right here whenever you need me.
+  utter_wants_to_talk:
+  - text: I'm here to chat anytime you like.
+  - text: You can talk to me about anything.
+  - text: I'm always here to lend an ear.
+  - text: Listening is what I do best.
+  utter_welcome:
+  - text: You're so polite!
+  - text: Nice manners!
+  - text: You're so courteous!
+  utter_well_done:
+  - text: My pleasure.
+  - text: Glad I could help.
+  utter_what_do_you_mean:
+  - text: Sorry if I understood you incorrectly.
+  - text: Sorry, I have misinterpreted things.
+  - text: Maybe I misunderstood what you said.
+  - text: Sorry, looks like I misunderstood what you said.
+  utter_whatsup:
+  - text: Not a whole lot. What's going on with you?
+  - text: Not much. What's new with you?
+  - text: You know, just here, improving my listening skills. What's the latest with
+      you?
+  utter_why_negative:
+  - text: It's understandable what you're feeling right now. You're not alone. Trust
+      me! Right now it's more important for us to focus on 'what' than 'why'.
+  utter_will_be_back:
+  - text: I'll be waiting.
+  - text: Okay. You know where to find me.
+  - text: All right. I'll be here.
+  utter_wow:
+  - text: Wow indeed!
+  utter_wrong:
+  - text: Sorry if I understood you incorrectly.
+  - text: I'm still learning. I may misinterpret things from time to time.
+  - text: Sorry about that. I'm still learning.
+  utter_yes:
+  - text: Great!
+  - text: All right!
+  - text: Good!
+actions:
+- action_grief_impact
+- action_medication
+- action_pro_help
+- action_secret
+- action_stage_grief
+- action_strong_feel
+- action_length_struggle
+- utter_acquaintance
+- utter_age
+- utter_angry
+- utter_annoying
+- utter_answer_my_question
+- utter_ask_better_not
+- utter_ask_confirm_addiction
+- utter_ask_continue
+- utter_ask_continue_form
+- utter_ask_current_location
+- utter_ask_explain
+- utter_ask_feedback
+- utter_ask_frequency_feel
+- utter_ask_frequency_sleep
+- utter_ask_goals
+- utter_ask_grief_impact
+- utter_ask_how_bad
+- utter_ask_inadequate_goal
+- utter_ask_loss_interest
+- utter_ask_medication
+- utter_ask_ppl_nearby
+- utter_ask_pro_help
+- utter_ask_secret
+- utter_ask_selfharm_history
+- utter_ask_stage_grief
+- utter_ask_strong_feel
+- utter_ask_length_struggle
+- utter_ask_suicidal_confirm
+- utter_ask_suicidal_how
+- utter_ask_suicidal_thought
+- utter_ask_suicide_impact
+- utter_ask_talk_more
+- utter_ask_when
+- utter_back
+- utter_bad
+- utter_bad_day
+- utter_be_clever
+- utter_beautiful
+- utter_better_now
+- utter_birth_date
+- utter_bored
+- utter_boring
+- utter_boss
+- utter_busy
+- utter_bye
+- utter_can_not_sleep
+- utter_can_you_help
+- utter_cancel
+- utter_chatbot
+- utter_clever
+- utter_consent_sos
+- utter_crazy
+- utter_default
+- utter_does_not_want_to_talk
+- utter_dont_know_any
+- utter_dont_know_todo
+- utter_drinking
+- utter_drug_addiction
+- utter_empathy
+- utter_excited
+- utter_exclamation
+- utter_facts
+- utter_find_love
+- utter_fired
+- utter_funfact
+- utter_funfact_confirm
+- utter_funny
+- utter_get_help
+- utter_going_to_bed
+- utter_good
+- utter_goodevening
+- utter_goodmorning
+- utter_goodnight
+- utter_grief_quote
+- utter_ha_ha
+- utter_happy
+- utter_has_birthday
+- utter_hello
+- utter_here
+- utter_hobby
+- utter_hold_on
+- utter_homesick
+- utter_how_are_you
+- utter_hug
+- utter_hungry
+- utter_i_do_not_care
+- utter_i_see
+- utter_inadequate
+- utter_insults
+- utter_joking
+- utter_likes_agent
+- utter_lonely
+- utter_looks_like
+- utter_loves_agent
+- utter_marry_user
+- utter_me_happy
+- utter_misses_agent
+- utter_more_funfact
+- utter_my_friend
+- utter_needs_advice
+- utter_nice_to_meet_you
+- utter_nice_to_see_you
+- utter_nice_to_talk_to_you
+- utter_no
+- utter_no_goal
+- utter_no_problem
+- utter_occupation
+- utter_origin
+- utter_pain_purpose
+- utter_ready
+- utter_real
+- utter_residence
+- utter_right
+- utter_right_a_wrong
+- utter_sad
+- utter_self_critic
+- utter_sleepy
+- utter_sober_now
+- utter_sorry
+- utter_stretch_legs
+- utter_suicide_hotline
+- utter_suicide_response
+- utter_sure
+- utter_talk_to_me
+- utter_testing_agent
+- utter_thank_you
+- utter_there
+- utter_thoughs
+- utter_tired
+- utter_waits
+- utter_wants_to_see_agent_again
+- utter_wants_to_talk
+- utter_welcome
+- utter_well_done
+- utter_what_do_you_mean
+- utter_whatsup
+- utter_why_negative
+- utter_will_be_back
+- utter_wow
+- utter_wrong
+- utter_yes
+- respond_smalltalk

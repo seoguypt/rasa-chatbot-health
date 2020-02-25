@@ -1,0 +1,2420 @@
+## intent:abusive non-physical
+- [cyberbullied](category)
+- [mugging](category)
+- [laughed at](category)
+- [laughing at](category)
+- [verbally abuses](category)
+- [verbally abused](category)
+- [making fun of](category)
+- [made fun of](category)
+- [mocked me](category)
+- [mocking me](category)
+- [names](category)
+- [accused me](category)
+- [accusing me](category)
+- [media bully](category)
+- [threathened](category)
+- [verbal abuse](category)
+- [cyberbullying](category)
+- [taunting](category)
+- [mocking](category)
+- [teasing](category)
+- [online stalking](category)
+- [crushed](category)
+- [manipulating](category)
+- [manipulated](category)
+- [judged](category)
+- [discriminated](category)
+- [criticized](category)
+- [insulted](category)
+- [anti-homosexual](category)
+- [anti-gay](category)
+- [trivializing](category)
+- [disparaging](category)
+- [abusive](category)
+- [belittled](category)
+- [bullied](category)
+- [crushing](category)
+- [humiliating](category)
+- [humiliated](category)
+- [mortified](category)
+- [undermined](category)
+- [tormented](category)
+- [threathening](category)
+- [judging](category)
+- [judge](category)
+- [criticizing](category)
+- [insulting](category)
+- [insult](category)
+- [discriminating](category)
+- [hostile](category)
+- [discriminate](category)
+- [belligerent](category)
+- [manipulate](category)
+- [cyberbully](category)
+- [mortify](category)
+- [crush](category)
+- [humiliate](category)
+- [criticize](category)
+- [disparage](category)
+- [put me down](category)
+- [undermine](category)
+- [belittle](category)
+- [controlling](category)
+- [torment](category)
+- [passive aggressive](category)
+- [intimidate](category)
+- [threat](category)
+- [racist](category)
+- dfd
+
+## intent:admitted_addiction
+- I am a heavy drinker
+- I have a problem binge watching TV
+- I can't stop binging
+- I have a binge drinking problem
+- I am relapsing from my recovery alcoholism
+- I relapsed recently and it got worse
+- my addiction has relapsed
+- I'm addicted to drugs
+- I have a drug problem
+- I'm doing drugs
+- I want to quit vaping
+- I want to try again quit smoking
+- It's so hard to quit
+- I think I've become a drug abuser
+- I think I become addicted to vaping
+- I become addicted to smoking
+- I am craving for a cigarette
+- I crave for a glass of wine sometimes
+- I found that vaping is really addictive
+- I am an addict of smoking
+- I have a gambling problem
+- I have gambled away all my hard earned money
+- I'm using again
+- I tried to quit but now I am using again
+- I need to get sober
+- I want to try staying sober
+- I'm an alkie
+- I was an alky
+- I have a drinking probelm
+- they call me an alcohol abuser
+- I'm an alcoholic and I'm trying to quit
+- I'm a recovering addict
+- I've trying to quit smoking
+- I failed quiting vaping
+- I want to quit drinking
+
+## intent:alarming_behaviors
+- sometimes I will look up at the ceiling and find something hovering over me
+- I can stare at the ceiling [for a long time](length_time)
+- I just lying in bed and staring at the ceiling
+- I think I hear voices
+- I start to hear voices that I'm not suppose to hear
+- I start to hear voices that I shouldn't
+- sometimes I hear noises and people saying my name
+- I started rambling when I panicked
+- my body was trembling
+- I was so overwhelmed and my body started shaking
+- my body started tor tremble and I was speechless
+- I've been crying for no reason
+- I cried [all day](length_time) and felt so tired afterward
+- I've been having night sweats
+- I had night sweats
+- I had cold sweats
+- I've having nightmares
+- I feel paralyzed
+- I was paralyzed emotionally
+- I'm paralyzed, can't function
+- I'm in a fog
+- I'm living in a cloud
+- my head feels foggy
+- my mind is blur
+- my days are blur
+- my memory is little blurry
+- I was bawling [for hours](length_time)
+- I bawled my eyes out
+- I cried my eyes out
+- I'm tear-sodden
+- [for an entire week](length_time) I couldn't stop tearing
+- I was tearing [all night](length_time)
+- I've been crying myself to sleep [lately](when)
+- I was sobbing [day and night](frequency)
+- I am crying [all the time](frequency) I can't help it
+- I can't helping sobbing [non-stop](frequency)
+- I've been crying [everyday](frequency) [in the past month](when)
+- I'm crying and crying nonstop [for a whole day](length_time)
+- tears are coming down out of my control
+- I was bawling for [3](length_struggle) hours
+
+## intent:all_want
+- all I want is to be better again
+- all I want is to get along with them
+- all I wish for is to see her again
+- all I wish for is to hug him once more time
+- all I wanted is love
+- all I want for my children is to be happy
+- all I wanted is to be loved
+- what I want is to support my family
+- will I ever be happy again
+- can I ever be happy once again
+- will I ever be better again
+- will I ever join life again
+- all I want is to make sure he is safe
+
+## intent:alone_nobody
+- I have no one to talk to
+- I have no one to hang out with
+- I am not bonding with anyone here
+- I got nobody
+- I have absolutely no one in my life
+- I got nobody supporting me
+- No one was there for me
+- no one is here
+- nobody wants to be with me
+- nobody is here for me
+- no one wants being with me
+- not a single person wanted to help me
+- not a single soul is here
+- I don't have any company
+- I don't have anyone else other than myself
+- No one cares about me
+- No one is looking out for me
+- nobody looks after me
+- I have nobody there to support me
+- I can only depend on myself
+- I only have myself
+- I have to rely on myself only
+
+## intent:anger & complaint
+- nagging me
+- [despair](category)
+- [i can't stand](category)
+- [insufferable](category)
+- fuck world](category)
+- [fuck life](category)
+- my heart dropped when I heard it
+- [wrath](category)
+- [outrageous](category)
+- [angst](category)
+- [crazed](category)
+- [grumpy](category)
+- [brutal](category)
+- [demented](category)
+- [lunatic](category)
+- [vigilance](category)
+- [worse](category)
+- [crash and burn](category)
+- [vindictive](category)
+- [brittle](category)
+- [short tempered](category)
+- [flunked out](category)
+- [out of line](category)
+- [ripped](category)
+- [patronized](category)
+- [volatile](category)
+- [hassle](category)
+- [spat](category)
+- [blowup](category)
+- [quarrel](category)
+- [bickering](category)
+- [clash](category)
+- [face-off](category)
+- [short circuit](category)
+- [vigilant](category)
+- [whiny](category)
+- [whining](category)
+- [blatantly](category)
+- [detestable](category)
+- [gossipy](category)
+- [gossip](category)
+- [innuendo](category)
+- [messing with](category)
+- [dreading](category)
+- [gruged](category)
+- [shocking](category)
+- [terrible](category)
+- [nagging](category)
+- [resentment](category)
+- [resentful](category)
+- [livid](category)
+- [went ballistic](category)
+- [lashing out](category)
+- [up in arms](category)
+- [complaint](category)
+- [name-calling](category)
+- [anguish](category)
+- [complaining](category)
+- [ridiculous](category)
+- [vex](category)
+- [revulsion](category)
+- [resent](category)
+- [nasty](category)
+- [malevolence](category)
+- [loathing](category)
+- [loathe](category)
+- [in the wrong](category)
+- [hostile](category)
+- [horrible](category)
+- [dreadful](category)
+- [displeasing](category)
+- [disgusting](category)
+- [disgusted](category)
+- [bothering](category)
+- [bothered](category)
+- [annoyed](category)
+- [aggravated](category)
+- [absurd](category)
+- [gruging](category)
+- [gruge](category)
+- [aversion](category)
+- [disgust](category)
+- [execrate](category)
+- [despise](category)
+- [detest](category)
+- [bother](category)
+- [exasperate](category)
+- [aggravate](category)
+- [displease](category)
+- [cruel](category)
+- [belligerent](category)
+- [complain](category)
+- [because of her](category)
+- [because of him](category)
+- [fed up](category)
+- [dread](category)
+- [distaste](category)
+- [dislike](category)
+- [hatred](category)
+
+## intent:angry
+- I'm being mad
+- I'm enraged
+- I'm angry
+- I'm furious
+- I am angry with you
+- I am mad
+- I was really mad at
+- i'm pissed off
+- have pissed me off
+- I'm so mad
+- makes me mad
+- makes me angry
+- makes me frustrated
+- I'm crossed at
+- I am pissed because
+- pissing me off
+- pissed me off
+- I'm furious with
+- I got angry
+- I was angry
+- I became angry
+- I was very angry
+- You bet I'm angry
+- That made me angry
+- it made me angry
+- I'm still angry about that
+- she agitated me so much
+- I got agitated at
+- I got worked up
+- got on my nerves
+- I really can't stand it
+- I was mad about
+- I'm feeling crossed with
+- I want to bite her head off
+- I will rip his head off
+- I'm so mad at
+- I was as mad as
+- I was infuriated by
+- I was outraged by the accusation
+- I couldn't control my rage
+- it fueled my rage
+- I feel irritated by what's happened
+- I was infuriate
+- It made me furious
+- I was furiously angry
+- I felt my fury building up
+- I got really frustrated
+- it irritates me so much
+- it infuriated me
+- I fucking hate her
+- I really hate him
+- I hate them in guts
+
+## intent:anitdepressant
+- anti-depressant
+- anitdepressant
+- TCAs
+- [Zolof](medication)
+- [Xanax](medication)
+- [Ambien](medication)
+- [Effexor](medication)
+- [Prozac](medication)
+- [Adderall](medication)
+- [Vyvanse](medication)
+- [Desyrel](medication)
+- [trazodone](medication)
+- [Celexa](medication)
+- [Lexapro](medication)
+- [Sarafem](medication)
+- [Selfemra](medication)
+- [Luvox](medication)
+- [Pexeva](medication)
+- [Paxil](medication)
+- [Trintellix](medication)
+- [ Brinktellix](medication)
+- [Viibryd](medication)
+
+## intent:anti-social
+- I stay home [all the time](frequency), even when I know it would be good for me to get out and do something
+- I became more withdrawn after my mother's death
+- I was withdrawn as a child
+- ever since I dropped out the school I withdrew myself into a darkness
+- I just shut-in [from time to time](frequency)
+- I shut myself in when I feel down
+- I shutoff when I feel depressed
+- I [constantly](frequency) feel like I need to hide myself and hut my emotions off from everyone
+- I shutdown and lock myself in my room [all day](length_time)
+- I lock myself in my room [for a week](length_time)
+- I am detached from the world
+- I detached myself from everyone else
+- I feel detached from the outside world
+- after I got the news I locked myself in
+- I shut myself down and don't talk to anyone [for days](length_time)
+- I feel like shutting down since [my wife](person) died
+- I have shut down emotionally
+- I cuttoff all my social support
+- I choose to isolating myself from the world
+- I'm good at internalizing my struggles
+- I often internalize things
+- I become antisocial since the injury
+- I'm just antisocial
+- people think I'm antisocial
+- I don't want to socialize with anyone
+- I am feeling excluded
+- I feel excluded from the group
+- this lack of trust has made me stay away from people as much as possible
+- I want to stay away from everybody
+- I enclosed myself in my corner
+- at this place I feel remote
+- I hide myself from people
+- I feel like hiding myself
+- I hide by avoiding
+- I cut myself off from the past
+- I enclose myself in my own little corner
+- I've become anti-social
+- since I moved to the campus I've been feeling remote
+- I'm feeling remote
+- I secluded myself from the rest of class
+- I've been secluded from the group
+- I feel being left out
+- I was isolated from my friends
+- drive everyone away from me
+- push everyone out of my life
+- I am not invited to hang out
+- I don't want to hang out with anybody
+- I feel non-existent to others
+
+## intent:anxiety and worries (not phobia)
+- [nerve wracking](category)
+- [nervous breakdown](category)
+- [antsy](category)
+- [panicky](category)
+- [in knots](category)
+- [over-react](category)
+- [over-reacting](category)
+- [over-reacted](category)
+- [overreact](category)
+- [overreacting](category)
+- [overreacted](category)
+- [flipped](category)
+- [freaked out](category)
+- [risky](category)
+- [dangerous](category)
+- [terrified](category)
+- [horrified](category)
+- [worrying](category)
+- [shock management](category)
+- [panic attack](category)
+- [frightening](category)
+- [frightened](category)
+- [panicking](category)
+- [freaking out](category)
+- [worried](category)
+- [perturbed](category)
+- [scared](category)
+- [agitated](category)
+- [in suspense](category)
+- [on pins and needles](category)
+- [worried sick](category)
+- [on edge](category)
+- [under stress](category)
+- [stressed](category)
+- [stomach in knots](category)
+- [fearful](category)
+- [distressed](category)
+- [can't stop thinking if](category)
+- [keeping me awake at night](category)
+- [foreboding](category)
+- [freak out](category)
+- [panic](category)
+- [perturb](category)
+- [concerned](category)
+- [edgy](category)
+- [jumpy](category)
+- [nervous](category)
+- [anxiety](category)
+- [anxious](category)
+- [fear](category)
+- [afraid](category)
+- [concern](category)
+- [worry](category)
+- [scare](category)
+
+## intent:break up
+- my relationship with him is dying
+- losing my relationship with him is like losing myself
+- I'm [breaking up](category) with my
+- [dishonest](category)
+- [infidelity](category)
+- [broke up](category)
+- [separated](category)
+- [moved out](category)
+- [left me](category)
+- [went separate ways](category)
+- [sleeping around](category)
+- [divorced](category)
+- [cheating on](category)
+- [cheated on](category)
+- homewrecking
+- [breakup](category)
+- [betrayed](category)
+- [had an affair](category)
+- [having an affair](category)
+- [mistress](category)
+- [we are separated](category)
+- [betray](category)
+- [ditched me](category)
+- [ditch me](category)
+- [move out](category)
+- [unfaithful](category)
+- [go separate ways](category)
+- [falling distance](category)
+- [falling distance from](category)
+- [leaving me](category)
+- [divorce](category)
+- [split up](category)
+- [break up](category)
+
+## intent:burnout
+- I'm losing my mind
+- I think I start to lose my mind
+- it's too much I can't think clearly
+- I can't think straight any more
+- I'm experiencing a burn-out [right now](when)
+- I'm going to be burned out
+- I might break down sometime soon
+- finally I broke down into tears
+- I just had a tramatic meltdown in front of the whole class
+- the overwhelming amount of work just burned me out
+- I had a burnout after working one week straight without a break
+- I'm experiencing a turmoil
+- It's such a turmoil
+- I'm in a spiral
+- I was in a spiral
+- I hit the downward spiral after losing my job
+- I was on the downward spiral
+- I feel I'd passing out at any time
+- some stranger found me passed out in the street
+- I was blacking out
+- I blacked out
+- I had black-outs
+- I finally broke down to tears
+- I had a major break down
+- I had a nervous breakdown [yesterday](when)
+- I'm afraid I will be breaking down soon
+- I got burned out by work
+- seriously I am burning out
+- the crazy workload is burning me out
+- I feel like I am losing control of myself
+- I've lost control of my life
+- I let myself lose control
+- my life got out of hand
+- things just got completely out of my hand
+- I completely lost it
+- I had an outburst at work
+- I am at my breaking point [right now](when)
+- I can't think clearly
+- I can't think straight
+- it was a total shit show
+- I've been skipping classes
+- I am missing all my classes
+- [having a hard time to](category)
+- [taking a toll on](category)
+
+## intent:can_not_sleep
+- the problem I've having is with sleeping
+- I keep tossing and turning at night
+- I haven't slept for days
+- I haven't had a good sleep for a long time
+- I have insomnia
+- I have trouble sleeping since
+- I couldn't sleep through the night
+- I'm insomnia's
+- I have really bad insominia
+- I'm sleepless
+- I had many sleepless nights
+- I don't sleep well
+- I can't get any sleep
+- I can't sleep
+- I can't fall asleep
+- I can't get to sleep
+- I'm insomniac
+- I'm not able to sleep
+- I'm wide awake
+- I can't seem to fall asleep
+- I couldn't sleep
+- I just can't sleep
+- I can't sleep at all
+- I didn't go to sleep
+- I just couldn't sleep
+- I'm not sleeping well
+- I can't sleep at night
+- I couldn't get to sleep
+- I didn't get much sleep
+- I have trouble falling asleep
+- it takes me a long time to fall asleep [every night](frequency)
+
+## intent:career
+- [compensation](category)
+- [business owner](category)
+- [in the workplace](category)
+- [at work](category)
+- [about work](category)
+- [work overtime](category)
+- [my colleagues](category)
+- [got sacked](category)
+- [got fired](category)
+- [a promotion](category)
+- [unemployment](category)
+- [employment](category)
+- [unemployed](category)
+- [laid off](category)
+- [office](category)
+- [work overload](category)
+- [resigned](category)
+- [demoted](category)
+- [get promoted](category)
+- [my co-workers](category)
+- [business partner](category)
+- [my customer](category)
+- [my client](category)
+- [make a living](category)
+- [new job](category)
+- [got promoted](category)
+- [getting a promotion](category)
+- [getting paid](category)
+- [lost my job](category)
+- [career](category)
+- [employer](category)
+- [employee](category)
+- [get paid](category)
+- [quit my job](category)
+- [wage](category)
+- [salary](category)
+- [lose my job](category)
+- [get fired](category)
+- [my co-worker](category)
+- [my colleague](category)
+- [my manager](category)
+- [my boss](category)
+- [job promotion](category)
+- [my job](category)
+- [overtime](category)
+
+## intent:child relationship
+- [my girls](person)
+- [my girl](person)
+- [my boys](person)
+- [my boy](person)
+- [my children](person)
+- [my foster child](person)
+- [my babies](person)
+- [my baby](person)
+- [my child](person)
+- [my kids](person)
+- [my kid](person)
+- [my sons](person)
+- [my son](person)
+- [my daughters](person)
+- [my daughter](person)
+
+## intent:commitment
+- [serious relationship](category)
+- [remarried](category)
+- [remarry](category)
+- [committing myself](category)
+- [moved in](category)
+- [tie the knot](category)
+- [marriage](category)
+- [to marry](category)
+- [getting engaged](category)
+- [getting married](category)
+- [committed to him](category)
+- [committed to her](category)
+- [commitment issue](category)
+- [move in together](category)
+- [proposed](category)
+- [get married](category)
+- [entrusting](category)
+- [vow](category)
+- [pledge](category)
+
+## intent:communication
+- [curses](category)
+- [cursed](category)
+- [judging](category)
+- [howling](category)
+- [wailed](category)
+- [screamed at](category)
+- [yelled at](category)
+- [shouded at](category)
+- [arguing](category)
+- [argument](category)
+- [don't communicate](category)
+- [implying](category)
+- [screaming](category)
+- [cursing](category)
+- [shouting](category)
+- [wailing](category)
+- [can't express](category)
+- [doesn't listen](category)
+- [won't listen](category)
+- [not talking to](category)
+- [can't talk to](category)
+- [don't want to talk to](category)
+- [not communicating](category)
+- [trying to talk to](category)
+- [tried to talk to](category)
+- [don't understand what i am saying](category)
+- [doesn't get what i said](category)
+- [can't communicate](category)
+- [howl](category)
+- [wail](category)
+- [shout](category)
+- [swearing](category)
+- [curse](category)
+- [silent treatment](category)
+- [judge](category)
+- [scream](category)
+- [yelling](category)
+- [yell](category)
+
+## intent:confidence
+- [felt unattractive](category)
+- [feel unattractive](category)
+- [low self-esteem](category)
+- [felt unwanted](category)
+- [felt rejected](category)
+- [feel unwanted](category)
+- [self-defeating](category)
+- [feel rejected](category)
+- [doubt myself](category)
+- [self doubt](category)
+- [not valued](category)
+- [not recognized](category)
+- [disappointed](category)
+- [disappointment](category)
+- [self-esteem](category)
+- [feel neglected](category)
+- [to run away](category)
+- [to escape](category)
+- [no confidence](category)
+- [am insecure](category)
+- [feel vulnerable](category)
+- [confidence in me](category)
+- [self-confidence](category)
+
+## intent:couple relationship
+- [my so](person)
+- [in a relationship](person)
+- [my sweetheart](person)
+- [my significant other](person)
+- [my affection](person)
+- [my ex](person)
+- [intimate relationship](person)
+- [soulmate](person)
+- [my date](person)
+- [romatic relationship](person)
+- [loving relationship](person)
+- [my fiance](person)
+- [my gf](person)
+- [my bf](person)
+- [my spouse](person)
+- [my partner](person)
+- [my wife](person)
+- [my girlfriend](person)
+- [my husband](person)
+- [my late wife](person_
+- [my late husband](person)
+- [my boyfriend](person)
+
+## intent:disability
+- [wheelchair](category)
+- [handicapped](category)
+- [disability](category)
+- [handicap](category)
+- [disabled](category)
+- [not able to](category)
+- [lost my ability](category)
+- [won't be able to](category)
+
+## intent:dont_know_todo
+- I don't know what to do
+- tell me what to do
+- can you just tell me what I should do
+- can you tell me what to do?
+- can anyone tell me what I need to do next
+- what should I do
+- what shall I do
+- what should I do next
+- what to do next
+- what do I do next
+- what do I do now
+- what more can I do
+- what's there I can do to help
+- what is there for me to do
+- someone please tell me what should I do
+- I don't what else I can do now
+- I have no idea anything else I can do
+- I couldn't think of anything to do
+- I couldn't come up with a plan of what to do next
+- I hope you can tell me what to do
+- I need you to tell me what to do
+- I want someone to teach me what to do
+- I wish someone can tell me what to do
+- tell me what I should do
+- not knowing what to do
+- I have no idea what to do
+- I have no idea about what I need to do next
+- I have absolutely no clue what to do
+- I've got no idea what else to do
+- I've got zero idea what to do
+- I ain't got a clue of what I should be doing
+- what I ought to do next I have no idea
+- what's to be done by me I don't know
+- what needs to be done I don't know
+- what should be done I have no idea
+- what to do next I have no clue
+- I have no clue what to do
+- I am clueless what to do
+- I'm clueless what needs to be done
+- I don't have any ideas what I need to do
+- I want to hear your idea about what I should do
+- I'd like to know what you think I should do next
+- I want to know what you think I need to do
+- I have not the foggest idea of what to do
+- I've not the faintest idea of what to do
+- I don't know if I can do it anymore
+
+## intent:drinking
+- I have drunk the liquor
+- I'm drunk
+- I want to get myself drunk
+- I gonna go get wasted
+- we always getting drunk at those parties
+- we drank so much booze
+- we gonna go get drunk tonight
+- I had too much to drink at the party
+- I drank too much last night
+- I can be a heavy drinker sometimes
+- I love my booz
+- I love drinking wine
+- I love my cocktails
+- I had too much wine
+- I drank a lot of beer
+- I can drink like a fish
+- I'm a responsible drinker
+- I had a few drinks and feeling tipsy
+- I am going out boozing
+- I will be drinking booz
+- I had to drink a lot with my clients
+- on weekends I often go out party and drinking
+- we had lots booz at the party
+- we played some drinking games
+
+## intent:drug_addiction
+- I was intoxicated by [alcohol](substance)
+- I'm addicted to [fentanyl](substance)
+- I was toking on a [joint](substance)
+- I had a toke
+- [cigarette](category)
+- [was high](category)
+- [get high](category)
+- [sedated](category)
+- [a puff](category)
+- [drug head](category)
+- [hazing](category)
+- [intoxicated](category)
+- [I'm baked](category)
+- [I was baked](category)
+- [doped](category)
+- [stoned](category)
+- [stoner](category)
+- [pothead](category)
+- [junkie](category)
+- [overdosed](category)
+- [drug abuse](category)
+- [marijuana](category)
+- [drug use](category)
+- [cocaine](category)
+- [drug abuser](category)
+- [od'ed](category)
+- [overdose](category)
+- [drughead](category)
+- [vaping](category)
+- [antidote](category)
+- [taking substance](category)
+- [substance abuse](category)
+- [rehab hospital](category)
+- [rehab](category)
+- [smoking](category)
+- [smoking crack](category)
+- [taking acid](category)
+- [LSD](category)
+- [take LSD](category)
+- [opioids](category)
+- [heroin](category)
+- [on drug](category)
+- [on acid](category)
+
+## intent:empty_name
+- I would not tell you my name
+- i dont have any name
+- I don't want to tell you my name
+- I don't want to share my name
+- why you need my name I thought this is annonymous
+- I thought this is annonymous
+- I want to be annonymous
+- I'd like to be annonymous
+- no name
+- call me whatever
+- you can call me whatever you want
+
+## intent:extreme situations
+- [misconduct](category)
+- [gun](category)
+- [weapon](category)
+- [terrorism](category)
+- [hate crime](category)
+- [terrorist attack](category)
+- [life and death experience](category)
+- [perpetrator](category)
+- [i nearly died](category)
+- [i was nearly killed](category)
+- [homicidal](category)
+- [homicide](category)
+- [breaking the law](category)
+- [broke the law](category)
+- [behind the bars](category)
+- [prison](category)
+- [jail](category)
+- [criminal](category)
+- [slaughter](category)
+- [massacre](category)
+- [mass shooting](category)
+- [genocide](category)
+
+## intent:finance
+- [i'm broke](category)
+- [am broke](category)
+- [financial aid](category)
+- [borrow money](category)
+- [borrowing money](category)
+- [expenses](category)
+- [bankrupt](category)
+- [loan](category)
+- [credit card](category)
+- [financial support](category)
+- [financial situation](category)
+- [financials](category)
+- [finance](category)
+- [paying for](category)
+- [savings](category)
+- [safe up](category)
+- [expensive](category)
+- [bank account](category)
+- [money](category)
+
+## intent:find_love
+- I'm going to grow old alone
+- I'm gonna grow old all alone
+- I might die alone
+- I will be dying alone
+- going to die alone
+- I died all alone and it's fine
+- I'm afriad I will die alone
+- I will forever be alone
+- need a man whom I would love
+- how do I find real love
+- will I find love eventually
+- will I ever fall in love with someone
+- can I ever fall in love with someone
+- I never fall in love
+- I never been in love
+- would I find love
+- could I find love
+- will I ever going to find love
+- I often wonder can I ever find love
+- could I ever find love
+- I won't find real love
+- I will never find true love
+- there is never true love in my life and never ever will be
+- I can't find my mr right
+- I'm looking for my mr right
+- I never be in love with someone
+- I could never be in love with someone
+- I want to find someone to love
+- I want to find a man to love
+- I never going to find someone to share this life with me
+- I still haven't found the right person
+- I hope I can find my true love one day
+- I hope I will find the love of my life some day
+- I've never felt a true feeling of love
+- I haven't found love of my life
+- I've stopped looking for love
+- I've given up on finding true love
+- I'm giving up looking for the love of my life
+- I don't think true love will ever happen to me
+- I don't think true love will never happen
+- I've given up the idea of finding the right person
+- it's so hard to find true love
+- it's so difficult to find the right person and get married
+- it's difficult to find a life long partner
+- it's too hard for me to put myself out there looking for love again
+- I'm looking for a man to marry to
+- I want to find a life partner
+- I'm looking for a life partner
+- I will never find a partner to share my life with
+- I will never be married
+- I'll never get married
+- I don't think I will get married
+- I want to find someone to get married
+- I will never find a husband
+- I will never find a wife to marry
+- I will never find someone to marry
+- I don't think I will get married ever again
+- I don't think I'll ever fall in love again
+- I don't think I'll love anyone ever again
+- I want to have a family with someone
+- I'll never find someone to start a family with
+- I haven't found the right person and I think I'll never do
+- I'm looking for the right person to start a family
+- I'm waiting for the right person to find me
+- I'm waiting for love to happened
+- I can't wait falling in love
+
+## intent:first person
+- [ourselves](person)
+- [myself](person)
+- [i'm](person)
+- [we](person)
+- [me](person)
+- [i](person)
+
+## intent:flags to disqualify the user input
+- [wished](category)
+- [hoped](category)
+- [wanted](category)
+- [longing](category)
+- [we hope](category)
+- [i hope](category)
+- [we wish](category)
+- [i wish](category)
+- [would like](category)
+- [can't figure it out](category)
+- [can't make sense of](category)
+- [should never been](category)
+- [don't get me wrong](category)
+- [i will not](category)
+- [i won't](category)
+- [i can't](category)
+- [i don't](category)
+- [i didn't](category)
+- [i wouldn't](category)
+- [i couldn't](category)
+- [i haven't](category)
+- [just a joke](category)
+- [wasn't going to](category)
+- [wasn't intend to](category)
+- [didn't mean to](category)
+- [was't trying to](category)
+- [should have been](category)
+- [should never have been](category)
+
+## intent:frequency
+- [pretty often](frequency)
+- [rarely](frequency)
+- [sometimes] (frequency)
+- [all the time](frequency)
+- [always](frequency)
+- [from time to time](frequency)
+- [once or twice a week](frequency)
+- [once a week](frequency)
+- [once a month](frequency)
+- [once a year](frequency)
+- [a few times a year](frequency)
+- [annually](frequency)
+- [every day](frequency)
+- [daily](frequency)
+- [every once a while](frequency)
+- [every week](frequency)
+- [every month](frequency)
+- [twice a day](frequency)
+- [three times a day](frequency)
+- [few times](frequency)
+- [every 2 years](frequency)
+- [every night](frequency)
+- [every morning](frequency)
+- [never happened before](frequency)
+- [more often recently](frequency)
+- [for the first time](frequency)
+- [seldom](frequency)
+- [infrequent](frequency)
+- [not often](frequency)
+- [occasionally](frequency)
+- [now and then](frequency)
+- [frequently](frequency)
+- [on occasion](frequency)
+- [not so often](frequency)
+- [time after time](frequency)
+- [time and again](frequency)
+- [every now and then](frequency)
+- [now and again](frequency)
+- [most of the time](frequency)
+- [very rarely](frequency)
+- [usually](frequency)
+- [not too often](frequency)
+- [once in a blue moon](frequency)
+- [all of the time](frequency)
+- [more than you'd think](frequency)
+- [once a while](frequency)
+- [once in a while](frequency)
+- [regularly](frequency)
+- [on the regular](frequency)
+- [not regularly](frequency)
+- [I never do](frequency)
+- [I never go there](frequency)
+- [hardly ever](frequency)
+
+## intent:friendship
+- [my dog](person)
+- [my cat](person)
+- [friend of mine](person)
+- [good friend](person)
+- [my friends](person)
+- [my buddies](person)
+- [my buddy](person)
+- [acquaintances](person)
+- [friendships](person)
+- [my best friends](person)
+- [my mates](person)
+- [my bff](person)
+- [friendship](person)
+- [acquaintance](person)
+- [my mate](person)
+- [my best friend](person)
+- [my friend](person)
+
+## intent:gender identify
+- [pronounce](category)
+- [pronoun](category)
+- [asexual](category)
+- [pansexual](category)
+- [queer](category)
+- [fancy girls](category)
+- [like girls](category)
+- [fancy boys](category)
+- [like boys](category)
+- [bi](category)
+- [lgbtq](category)
+- [lgbt](category)
+- [out of the closet](category)
+- [coming-out](category)
+- [came-out](category)
+- [homo](category)
+- [hetero](category)
+- [sexuality](category)
+- [homosexual](category)
+- [sexual identity](category)
+- [lesbian](category)
+- [bisexual](category)
+- [maybe gay](category)
+- [be gay](category)
+- [i gay](category)
+- [sexual orientation](category)
+- [sexually oriented](category)
+- [transsexual](category)
+- [transgender](category)
+- [trans](category)
+- [dysphoria](category)
+- [intersex](category)
+- [my gender](category)
+- [the closet](category)
+
+## intent:general mental health, excluding anxiety
+- I'm experiencing [postpartum](depression)
+- I think I might have [postpartum](depression)
+- I suspect I might have [postnatal depression](depression)
+- I feel [melancholy](depression)
+- I am coping with [depression](depression)
+- I'm struggling with [depression](depression)
+- I've diagnosed with [depression](depression)
+- I've bee diagnosed with [mdd](depression)
+- I have a history of [major depression](depression)
+- I'm coping with [postpartum](depression)
+- [cancer survivor](category)
+- [distortion](category)
+- [sociopath](category)
+- [traumatized](category)
+- [delusional disorder](category)
+- [mental disorder](category)
+- [psychiatric](category)
+- [veteran](category)
+- [manic](category)
+- [war survivor](category)
+- [ptsd](category)
+- [traumatic](category)
+- [trauma](category)
+- [paranoia](category)
+- [mania](category)
+- [bipolar](category)
+- [schizophrenia](category)
+- [dementia](category)
+- [gad](category)
+- [psychotic](category)
+
+## intent:general negative emotions
+- hits me like a ton of bricks
+- [wretched](category)
+- [uncomfortable](category)
+- [awkward](category)
+- [uneasy](category)
+- [unsettling](category)
+- [twisted](category)
+- [spoil](category)
+- [strange](category)
+- [woeful](category)
+- [whirlwind](category)
+- [rejection](category)
+- [rejected](category)
+- [unsettled](category)
+- [disturbing](category)
+- [tiring](category)
+- [tired](category)
+- [baffling](category)
+- [baffled](category)
+- [confusing](category)
+- [perplexing](category)
+- [confused](category)
+- [perplexed](category)
+- [puzzled](category)
+- [bizarre](category)
+- [envy](category)
+- [devastingjealoused](category)
+- [evastated](category)
+- [trashed](category)
+- [destroyed](category)
+- [damaged](category)
+- [ruined](category)
+- [spoiled](category)
+- [weird](category)
+- [gloomy](category)
+- [foggy](category)
+- [praying for](category)
+- [jealous](category)
+- [chaotic](category)
+- [discouraging](category)
+- [discouraged](category)
+- [saw it coming](category)
+- [unpleasant](category)
+- [exhausted](category)
+- [feeling down](category)
+- [feeling blue](category)
+- [upset](category)
+- [unhappy](category)
+- [gloom](category)
+- [feel down](category)
+- [downhearted](category)
+- [depressed](category)
+- [regretful](category)
+- [pessimistic](category)
+- [heavy-hearted](category)
+- [dispirited](category)
+- [disturbed](category)
+- [rollercoaster](category)
+- [pressure](category)
+- [exhaused](category)
+- [low mood])(category)
+
+## intent:habitual mental health
+- [make myself throw up](category)
+- [food phobia](category)
+- [paranormal fear](category)
+- [trypanophobia](category)
+- [hemophobia](category)
+- [aerophobia](category)
+- [acrophobia](category)
+- [astraphobia](category)
+- [brontophobia](category)
+- [apiphobia](category)
+- [ornithophobia](category)
+- [ophidiophobia](category)
+- [arachnophobia](category)
+- [zoophobia](category)
+- [agoraphobia](category)
+- [social phobia](category)
+- [cleithrophobia](category)
+- [claustrophobia](category)
+- [phobia](category)
+- [compulsive](category)
+- [binge eating](category)
+- [anorexia](category)
+- [diabulimia](category)
+- [bulimia](category)
+- [ocd](category)
+
+## intent:health
+- [spasm](category)
+- [burning](category)
+- [heaving](category)
+- [heave](category)
+- [retching](category)
+- [retch](category)
+- [ambulance](category)
+- [hospitalized](category)
+- [swollen](category)
+- [aching](category)
+- [vomitting](category)
+- [puked](category)
+- [puke](category)
+- [vertigo](category)
+- [cramps](category)
+- [bruises](category)
+- [migraine](category)
+- [prescriptions](category)
+- [prescribing](category)
+- [prescribed](category)
+- [cardiologist](category)
+- [surgeon](category)
+- [organs](category)
+- [meds](category)
+- [heart pounding](category)
+- [skipping heart](category)
+- [racing heart](category)
+- [heart racing](category)
+- [shortness of breath](category)
+- [short of breath](category)
+- [unhealthy](category)
+- [under the weather](category)
+- [clammy](category)
+- [tingling](category)
+- [itchy](category)
+- [congestion](category)
+- [wheezing](category)
+- [nausea](category)
+- [medication](category)
+- [redness](category)
+- [transplant](category)
+- [nauseous](category)
+- [injured](category)
+- [fainted](category)
+- [organ](category)
+- [infection](category)
+- [throwing up](category)
+- [coughing](category)
+- [dizziness](category)
+- [bruise](category)
+- [prescription](category)
+- [wound](category)
+- [stitches](category)
+- [severe pain](category)
+- [implant](category)
+- [disorder](category)
+- [syndrome](category)
+- [gp](category)
+- [dentist](category)
+- [pathologist](category)
+- [radiologist](category)
+- [physician](category)
+- [infected](category)
+- [clinics](category)
+- [pharmacist](category)
+- [pharmacy](category)
+- [ward](category)
+- [sore](category)
+- [special care](category)
+- [special needs](category)
+- [swelling](category)
+- [nurse](category)
+- [headache](category)
+- [ache](category)
+- [fatigue](category)
+- [cramp](category)
+- [lost weight](category)
+- [throw up](category)
+- [faint](category)
+- [dizzy](category)
+- [cough](category)
+- [nausia](category)
+- [drowsy](category)
+- [injury](category)
+- [hospice](category)
+- [doctor](category)
+- [surgery](category)
+- [medicine](category)
+- [prescribe](category)
+- [hospital](category)
+- [diagnosed with](category)
+
+## intent:hopeless
+- I feel like I'm burning alive
+- I don't know how to be
+- peope are better off without me
+- my life is collapsing
+- my world has collapsed around me
+- I feel trapped
+- there is an emptiness in me
+- let me rotting away
+- I feel paralyzed
+- I feel a blankness inside of me
+- I am shattered
+- it was such a suffocating feeling
+- I feel suffocated living in this world
+- everyday to me is an agony
+- I don't worth little
+- I feel worthless
+- I'm just surviving
+- I feel a deep entrapment in life
+- I've been a victim of entrapment
+- it's disastrous
+- my life is a disaster
+- It's really tragic
+- my life is a tragedy
+- I won't survive this tragedy
+- I'm stuck in life
+- There is no hope in my life
+- I lost hope for life
+- I'm tired of trying
+- I'm sick of trying
+- things always fall apart around me
+- everthing is falling apart in my life
+- It's unbearable to continue
+- it becomes unbearable for me to live
+- my life has fell apart
+- my world has fallen apart
+- my life has fallen into pieces
+- It's incurable
+- It's terminal
+- I'm dying
+- I'm going to die soon
+- I don't have much time to live
+- I think I am at the rock bottom right now
+- there is no cure for me
+- I feel stuck
+- I'm suffering
+- I am in so much agony
+- I can't breath
+- It's really suffocating
+- I'm feeling empty
+- I feel powerless
+- I'm powerless over what's happening
+- I feel very helpless
+- I feel hopeless for my future
+- It's fucking intolerable to continue like this
+- my days are unbearable
+- there is no way out, I'm stuck
+- I have to live moment by moment
+- I'm suffering every second
+- it's living hell
+- please god end my suffering
+- life is too painful to carry on
+- I feel empty
+- will I survive
+- there is an empty void in me
+- I don't care about anything anymore
+- nothing matters to me anymore
+- I won't be a burden to anybody anymore
+- I became a burden to them
+- I'm only a burden to people around me
+- I'm a burden to everyone
+- I am a burden on those I care about
+- I'm trapped in here
+- my condition is not curable
+- my sickness is terminal
+- it's not curable
+- my life is pointless
+- my life is meaningless
+- my existence has no meaning
+- my existence is meaningless
+- my existence is pointless
+- there is no point to carry on
+- just put me out of my misery
+- There is no future for me
+- nothing matters to me any more
+- I want to end of my misery
+- I want all of it to end soon
+- I can't do this any more
+- I don't know how to do this any more
+- I don't know how to continue
+- I will never get better
+- I feel like giving up
+- I will never be happy again
+- I feel numb
+- I feel nothing but a numbness
+- I'm numbing myself with alcohol [every day](frequency)
+- as the walls closed in on me, I stopped believing I could
+- the walls are closing in on me
+- I feel the walls are closing in
+- It felt like an endless free fall
+- I'm free falling
+- I feel I was free falling
+- I've been in deep sorrow since my mom died
+- I'm in a sad slump and I don't know how to pick myself up
+- I can't pick myself up from the disasters
+- I'm tired of picking myself up again and again from all the shit happened to my life
+- I'm sick of picking myself up from the ruins of my life
+- I was in a total mess
+- I'm a mess
+- I was a drunken mess
+- my life has gotten so messy
+- my life is a complete mess
+
+## intent:inadequate
+- I feel like the escape goat
+- I feel like the black sheep
+- I don't fit in here
+- I'm an imposter
+- I shouldn't be here
+- I don't belong here
+- I feel inadequate here
+- I'm trying very hard to fit in
+- It's hard for me to fit in
+- I just don't fit in
+- I feel out of place being here
+
+## intent:life_joke
+- life honestly just feels like a cruel joke
+- life is a bad joke
+- my life was a joke
+- life is a joke and death is the punchline
+- it was one of life's little jokes
+- my life is a fucking joke
+- what a joke my life has been
+- my whole life has been a big fucking joke
+
+## intent:lonely
+- I am lonely
+- I'm very lonely
+- I'm so lonely
+- I'm really lonely
+- I am feeling lonely
+- I feel lonely
+- I am a loner
+- I'm always alone
+- I'm alone
+- am all alone
+- I live alone
+- I'm all alone
+- I've gotten used to living alone
+- I think I've been living alone too long
+- One of the disadvantages of living alone is that you have no one to talk to
+- I am still alone
+- i lives in this city all alone
+- I am used to living alone
+- I feel lonesome tonight
+- I'm lonesome
+- the solitary hit me hard
+- feel my solitary
+- me and my loneliness
+
+## intent:look_negative
+- [body-shame](category)
+- I need to be in better shape
+- i am fat
+- I feel fat
+- I'm a fat blob
+- every time I look into a mirror I see a big fat blob
+- i'm fat and ugly
+- I feel ugly
+- I think I'm ugly
+- I don't look good
+- I don't think I'm good looking
+- I don't feel sexy
+- I don't feel beautiful
+- I'm not a pretty girl
+- I'm not a good looking person
+- I don't look attactive
+- I don't feel attractive
+- I feel unattractive
+- I don't like the way I look
+
+## intent:lose_weight
+- I want to lose some weight
+- I have to lose weight
+- I'd like to lose a few pounds
+- I can be 5 pounds lighter
+- I'm on a diet
+- I need to watch my weight
+- I need to watch my diet
+- I'm trying out a new diet
+- I've lost one kilo need to lose some more
+- I want to drop a few pounds
+- I can drop a few pounds
+- I want to be lighter
+- I want to be skinny
+
+## intent:loss_of_someone
+- I'm still grieving
+- I'm grieving the loss of [my child](person)
+- I hope she is rest in peace now in heaven
+- he is rest in peace now
+- [my dad](person) had a heart attack and died [2 weeks ago](when)
+- I lost [my cousin](person) in a car accident
+- I have lost [both parents](person)
+- I've lost a friend from suicide
+- I loss of [my mom](person) [last winter](when)
+- [my granny](person) has gone to heaven
+- both of [my grandparents](person) have gone to heaven now
+- [my dad](person) now is at eternal peace
+- [my friend](person) is now in paradise in the eternal rest in peace
+- I hope he is in the eternal rest in peace now
+- [my best friend](person) got killed in a car accident
+- [my grandpa](person) was killed by lung cancer
+- [my colleague](person) died of the big C
+- breast cancer took my best friend's life
+- cancer took [my father](person) away
+- [my wife](person) died of brain tumor
+- [my brother](person) died after battling with leukemia [for six and a half years](length_time)
+- I grieved the loss of [my wife](person)
+- I'm grieving the loss of [my father](person)
+- [after three years](length_time) I'm still can't get over the death of [my husband](person)
+- [my uncle](person) died [last week](when)
+- [my parents](person) were killed in a car crash
+- the feeling of losing someone you love is unbearable
+- [my mother](person) passed away [five years ago](when)
+- [four years ago](when) [my sister](person) past away
+- [my dog](person) has past away [last summer](when)
+- I haven't been unable to recover from my grief at my son's death
+- I have take a lot grief from [my friends](person)
+- to the grief of [my boyfriend](person) I left my hometown
+- I've been carrying the grief with me [for years](length_time)
+- I am mourning for [my late wife](person)
+- the grief was so strong that it became such a pain
+- grief has overwhelmed me so badly
+- the whole family is still in mourning the death of [my uncle](person)
+- I've been mourning the loss of [my friend](person)
+- I'm still in deep mourning for [my late husband](person)
+- I mourned the loss of my ability to have a child
+- I grieved the loss of the ability to drive
+- I need more time to grieve after the death of [my mother](person)
+- lots people came to grieve for [my husband](person)
+- many people came to the funeral
+- the funeral was sweet and heartbreaking at the same time
+- my grandmother died and we are planning a funeral
+- [my grandfather] died of a heart attack [last month](when)
+- we have put [Tom](name) to sleep
+- we have to put her down
+- they had to put him down
+- he was suffering so we decided to him down
+- she was very sick and an euthanasia was a hard choice for use
+- [my dog](person) got euthanized
+- when the time came to put [my cat](person) down, I really lost it
+- [my grandma](person) kicked the bucket when she was 95
+- may she rest in peace
+- I was adorned with condolences and words of pity and sorrow, but no words could heal the pain in my heart
+- friends and family offered their deepest condolences at the funeral
+- I extend my sincere and heartfelt condolences to her and to all his family
+- I was bereaved of my wife [last year](when)
+- My grandfather's death is sure to bereave my grandmother of her happiness
+- people have expressed their sympathy to my bereaved family
+- I'm grieving the loss of [my friend](person)
+- I'm grieving loss of [my friend](person)
+
+## intent:no
+- no I'm not thinking about
+- nien
+- I'm not going to do it
+- I won't
+- I wouldn't
+- I'm not ready to
+- I don't mean that
+- I don't
+- I don't want
+- need not
+- no need
+- don't come
+- never help
+- never
+- not needed
+- of course not
+- not now
+- not today
+- not at this time
+- not exactly
+- absolutely no
+- no forget
+- do not
+- no thanks
+- no thank you
+- no I don't want
+- sorry no
+- don't want your help
+- I don't you help
+- I don't want your assistance
+- i do not want your help
+- i don't need your help
+- i don't want your help
+- i am not okay with your help
+- don't want
+- I don't need anything from you
+- okay keep it in mind
+- nope i dont need your help
+- Don't show off
+- nope
+- no don't do it
+- nah
+
+## intent:no_family_friend
+- I have no friend, no family, nobody
+- no one in my family cares about me
+- no one in my family supports me any more
+- I don't have any family
+- I don't have any friends
+- I'm friendless.
+- I am homeless
+- I have no home
+- there is no home for me to go back to
+- I don't have a home to go back to any more
+- I'm a homeless person
+- I lost all my friends and family
+- I lost my home
+- I lost everything, my home, my family and friends
+- I don't have a home
+- I have no home to go back
+- I don't have any friends here
+- I don't have any family to support me
+- I don't have friends
+- I have no friend
+- I have zero friend
+- I have no family
+- none of my family members cares
+- none of my family wants to talk to me
+
+## intent:no_goal
+- I don't have any goals
+- I have no goals
+- I don't have any meaningful goals in life
+- I have no clue what my goals are
+- I have no idea what my goal is
+- I don't have a clear goal
+- my goal is non-existent
+- my goal doesn't exist
+- I don't know what my goal is at the moment
+- I've lost my goals
+- I've got no goals
+- I got no goal
+- I haven't found my life goal yet
+- I haven't got any goal
+- no goal
+- I'm living a life with no goals
+- I just live my days without goals
+
+## intent:other third person
+- [my teammate](person)
+- [my co-worker](person)
+- [my housemate](person)
+- [my roommate](person)
+- [my neighbor](person)
+- [my colleague](person)
+- some girl
+- some guy
+- some stranger
+- some dude
+- some people
+- some passenger
+
+## intent:pain relievers
+- pain killer
+- painkiller
+- [neoprofen](medication)
+- [diclofenac](medication)
+- [zorvolex](medication)
+- [zipsor](medication)
+- [tylenol](medication)
+- [aspirin](medication)
+- [naproxen](medication)
+- [nuerofen](medication)
+- [aleve](medication)
+- [ibuprofen](medication)
+- [motrin](medication)
+- [painkiller](medication)
+- [advil](medication)
+- [pain reliever](medication)
+- [pain killer](medication)
+
+## intent:parent relationship
+- [my folks](person)
+- [my parents](person)
+- [both parents](person)
+- [my mum](person)
+- [my mommy](person)
+- [my momma](person)
+- [my dada](person)
+- [my papa](person)
+- [my daddy](person)
+- [my foster mother](person)
+- [my foster father](person)
+- [my foster dad](person)
+- [my foster mom](person)
+- [my foster parents](person)
+- [my foster parent](person)
+- [my father](person)
+- [my parent](person)
+- [my mother](person)
+- [my dad](person)
+- [my mom](person)
+
+## intent:pregnancy
+- [bearing a child](category)
+- [giving birth](category)
+- [babyshower](category)
+- [breast feeding](category)
+- [ivf](category)
+- [going to be a mom](category)
+- [going to be a dad](category)
+- [pregnancy](category)
+- [carrying a child](category)
+- [expecting a baby](category)
+- [having a baby](category)
+- [pregnant](category)
+
+## intent:procrastination
+- [time management](category)
+- [put everything off](category)
+- [procrastinating](category)
+- [vegging out](category)
+- [veg out](category)
+- [deadlines](category)
+- [keep delaying my](category)
+- [putting off](category)
+- [delaying my work](category)
+- [avoiding my work](category)
+- [wasting time](category)
+- [can't act](category)
+- [can't pull myself together](category)
+- [can't focus](category)
+- [can't concentrate](category)
+- [i have so much to do](category)
+- [no goal](category)
+- [no drive](category)
+- [falling behind](category)
+- [productivity](category)
+- [procrastinate](category)
+- [due date](category)
+- [deadline](category)
+- [put off](category)
+- [can't motivate](category)
+- [lost motivation](category)
+- [no motivation](category)
+- [procrastination](category)
+
+## intent:sad
+- I'm in a sad mood
+- I'm in a low mood
+- I feel blue
+- I'm feeling blue
+- I'm under the cloud
+- I am sad
+- I am depressed
+- I feel depressed
+- I am feeling sad
+- I am upset
+- I'm unhappy
+- I want to cry
+- I'm not happy
+- I've been feeling sad
+- I'm feeling down
+- I felt sad for no reason
+- I feel down for no reason
+- Now I'm sad
+- It makes me sad
+- I am sad to hear it
+- I am a very sad person
+- I feel sad [every now and then](frequency)
+- I am as sad and lonely as can be
+- I'm feeling so down
+- I am in a deep sorrow
+- i am not in a good mood
+- I was weeping
+- I wept
+- I'm weeping
+
+## intent:self_critic
+- I'm poison
+- I am toxic
+- I'm toxic to people around me
+- I am bad news to people
+- I am poison to everyone around me
+- I did something really dumb
+- I did something stupid
+- I'm an idiot
+- I am so stupid
+- I'm really dumb
+- it was my fault
+- I felt guilty
+- I am guilty
+- I'm a bad person
+- I am no good
+- I'm a terrible human being
+- I'm a aweful person
+- I am a horrible person
+- I'm a terrible being
+- can't live up to myself
+- it's all because of my stupidity
+- i can be self-defeating sometimes
+- I'm self-defeating
+- I feel shame
+- I feel ashamed
+- I doubted myself
+- I don't trust myself
+- I can't trust myself
+- it gave me self doubt
+- I'm not worthwhile
+- I'm an embarassment for my family
+- I feel useless
+- I'm piece of shit
+- I'm a giant asshole
+- I'm a fucking jerk
+- I'm just a mistake
+- I screwed up so bad
+- I have many screw ups in my life
+- I messed up such an important thing
+- I screw up all the time
+- I'm a stupid coward
+- I'm self saboraging
+- I fucked up big time
+- I'm a disappointment
+- I feel really guilty about
+- I'm so pathetic
+- I'm an embarrassement to my family
+- I don't want to embarrass my
+- I embarrassed my friends
+- I'm embarrasing myself
+- I feel ashamed about my past
+- I just sabotage every relationship in my life
+- I am failing my parents
+- my life is a failure
+- I am such a failure
+- I'm a fucking loser
+- I hate myself
+- I will fuck it up
+- I fucked things up
+- I've screwed things up many times before
+- It was my mistake
+- it's clearly my fault
+- I did many idiotic things made me regret
+- I am the biggest moron on earth
+- I am an ignorant asshole
+- I'm such a fool
+- It was my idiocracy that caused it
+
+## intent:self_harm
+- I struggle with self harm
+- I've been hurting myself to get sensation
+- I had been hurting myself with a knife
+- I cut my arm with a blade and watch the blood running down
+- when I cut, I feel immediate relief when I see the blood and feel it run down my arm
+- cutting myself makes me feel again
+- when it gets too unbearable, I cut my arm and enjoy the physical pain
+- I've been cutting my arm and enjoyed watching the blood dripping down
+- I find it releases me from the pain when I cut myself
+- I don't feel any pain hurting myself, only relief
+- I would take a piece of glass, cut my arm, and watch the blood trickle down
+- I've trid cutting my thigh with a razor blade and watch the blood
+- I found a way to hurt myself without people noticing
+- I cut myself and I didn't feel anything
+- I don't feel the pain at all when I cut myself
+- I cut my arm deep and bled an unstoppable wave of blood
+- my whole arm was covered in cuts
+- I think it's time to bleed I'm gonna cut myself
+
+## intent:serious diseases
+- [in a coma](category)
+- [cml](category)
+- [stage 4](category)
+- [very sick](category)
+- [very ill](category)
+- [seriously ill](category)
+- [late-stage](category)
+- [palliative](category)
+- [sclerosis](category)
+- [als](category)
+- [autoimmune](category)
+- [incurable diseases](category)
+- [aids](category)
+- [lukemia](category)
+- [cardiopulmonary](category)
+- [heart failure](category)
+- [seriously sick](category)
+- [terminal disease](category)
+- [trauma floor](category)
+- [head trauma](category)
+- [big c](category)
+- [arthritis](category)
+- [icu](category)
+- [stage 3](category)
+- [terminal illness](category)
+- [aml](category)
+- [coronary](category)
+- [heart disease](category)
+- [alzheimer](category)
+- [stroke](category)
+- [heart attack](category)
+- [cirrhosis](category)
+- [fibrosis](category)
+- [leukemia](category)
+- [lymphoma](category)
+- [tumor](category)
+- [cancer](category)
+
+## intent:sexual suggestions
+- [erection](category)
+- [hooked up](category)
+- [get laid](category)
+- [arousal](category)
+- [aroused](category)
+- [erotic](category)
+- [sexual desire](category)
+- [sex drive](category)
+- [feelings for him](category)
+- [feelings for her](category)
+- [attracted to him](category)
+- [attracted to her](category)
+- [affectionate](category)
+- [inappropriate jokes](category)
+- [sexual jokes](category)
+- [brushing against my](category)
+- [felt aroused](category)
+- [feel aroused](category)
+- [virginity](category)
+- [masturbate](category)
+- [had sex](category)
+- [have sex](category)
+- [sexual needs](category)
+- [libido](category)
+- [pornography](category)
+- [porn](category)
+- [sexual intercourse](category)
+- [nudes](category)
+- [sexy](category)
+- [sexually](category)
+- [touching my](category)
+- [touched my](category)
+- [flirted with](category)
+- [asked me out](category)
+- [had crush on](category)
+- [have crush on](category)
+- [on a date](category)
+- [hookup](category)
+- [hookups](category)
+- [promiscuous](category)
+
+## intent:siblings & other family members
+- [my meemaw](person)
+- [my nana](person)
+- [extended family](person)
+- [grandparents](person)
+- [both grandparents](person)
+- [grandparent](person)
+- [cousins](person)
+- [consins](person)
+- [uncles](person)
+- [aunts](person)
+- [in-laws](person)
+- [in-law](person)
+- [siblings](person)
+- [my sibling](person)
+- [my brother](person)
+- [my relatives](person)
+- [my family](person)
+- [grandpa](person)
+- [grandma](person)
+- [aunt](person)
+- [uncle](person)
+- [cousin](person)
+- [my sister](person)
+- my elder sister
+- younger sister
+- elder brother
+- younger brother
+
+## intent:sleeping_pills
+- sleeping pills
+- [melatonin](medication)
+- [hypnotics](medication)
+- [emazepam](medication)
+- [Prosom](medication)
+- [Halcion](medication)
+- [Dalmane](medication)
+- [Restoril](medication)
+- [triazolam](medication)
+- [Halsion](medication)
+- [Silenor](medication)
+- [doxepine](medication)
+- [eszopiclone](medication)
+- [Lunesta](medication)
+- [ramelteon](medication)
+- [Rozerem](medication)
+- [suvorexant](medication)
+- [Belsomra](medication)
+- [Zaleplon](medication)
+- [Sonata](medication)
+- [Zolpidem](medication)
+- [Edluar](medication)
+- [Intermezzo](medication)
+- [Zolpimist](medication)
+- [alprazolam](medication)
+- [diazepan](medication)
+- [lorazepam](medication)
+
+## intent:social media
+- [cyber](category)
+- [yaks](category)
+- [yik yak](category)
+- [tweeting](category)
+- [hashtag](category)
+- [hashtags](category)
+- [memes](category)
+- [meme](category)
+- [youtuber](category)
+- [vlog](category)
+- [yikyak](category)
+- [reddit](category)
+- [fanpersoned](category)
+- [snapchats](category)
+- [ins](category)
+- [followers](category)
+- [tagging](category)
+- [posting](category)
+- [ghosted](category)
+- [influencer](category)
+- [follower](category)
+- [reposting](category)
+- [messenger](category)
+- [snapchat](category)
+- [retweet](category)
+- [tweet](category)
+- [twitter](category)
+- [instagram](category)
+- [facebook](category)
+- [fb](category)
+- [social media](category)
+
+## intent:spectrum mental
+- [asd](category)
+- [attention deficit](category)
+- [oppositional defiant disorder](category)
+- [has odd](category)
+- [have odd](category)
+- [spectrum](category)
+- [autism](category)
+- [aspergers](category)
+- [adhd](category)
+- [autistic](category)
+
+## intent:study
+- [on campus](category)
+- [dorm](category)
+- [dormitory](category)
+- [campus](category)
+- [classmates](category)
+- [expelled](category)
+- [suspended](category)
+- [lectures](category)
+- [dropped out](category)
+- [teachers](category)
+- [grades](category)
+- [graduating](category)
+- [classmate](category)
+- [took the tests](category)
+- [take the tests](category)
+- [readings](category)
+- [studying](category)
+- [drop out](category)
+- [academic](category)
+- [study](category)
+- [university](category)
+- [college](category)
+- [assignment](category)
+- [homework](category)
+- [exams](category)
+- [essay](category)
+- [lecture](category)
+- [school](category)
+- [teacher](category)
+- [graduate](category)
+- [grade](category)
+- [semester](category)
+
+## intent:suicidal
+- I do not want to wake up again
+- I don't mind never waking up again
+- I never want to wake up again
+- I want to just sleep and never wake up
+- sometimes I have homicidal thoughts
+- I'm tired of being on the earth
+- I am tired of living in this world
+- I'm give up on myself
+- I don't wish to continue to live
+- I want everything to be over
+- There is no point to go on
+- I don't see no point in life
+- There's no point to carry on my life
+- I wish a car just run me over
+- I am thinking to cease to exist
+- It's tiring of being alive
+- I feel tired being alive
+- I'm fucking done with it all
+- I am done with my life
+- I don't want to live like this any longer
+- I don't want to live
+- I can't live like this any more
+- I wish I never existed
+- I shouldn't exist in this world
+- I want to make myself disappear
+- I think about suicide sometimes
+- I've been having some suicidal thoughts
+- I am going kill myself
+- I am going to end it all
+- I don't want to live this shitty life anymore
+- no one cares if I end my life
+- no one will notice when I'm gone
+- I have to end all of this
+- I don't want to go on with my life any more
+- all the pains will end when my life ends
+- I want to end this pain, and to end everything
+- I've been preparing killing myself
+- I will find a way to end all my suffering
+- I'm imaging the picture of my [head first off a building](death_how)
+- the thought of wanting to die has been on my mind
+- I don't want to live anymore
+- I want to be dead to end all my misery
+- I'm thinking to [jump out of the building](death_how)
+- I think I will
+- I'm planning to [jump off the bridge](death_how) and end this embarrassment
+- I've done with this life
+- I've been thinking the ways to take my life
+- I'm going to take my life
+- I'm planning my death with stages
+- I've staging my death so it won't look like a suicide
+- I hope for [a car crash](death_how) to end it all
+
+## intent:suicidal_attempt
+- I nearly died from a drug overdose
+- I almost killed myself by downing pills
+- I tried to kill myself before
+- I tried ending my life
+- I wanted to end my life
+- I hoped it'd kill me
+- I was ready to die
+- I was saved from a suicide attempt
+- I attempted suicide when I was forteen.
+- I wanted to kill myself.
+- I tried committing suicide at 15.
+- I committed suicide two years ago.
+- I failed to kill myself
+- I tried to kill myself three times before
+- I slit my wrist when I was [at age of 16](age)
+- I tried my wrist when I was [at age of 16](age)
+- nearly a decade ago, I attempted suicide
+
+## intent:telling_name
+- my name is [Sachin](name)
+- my name is [Vivek](name)
+- people like to call me [Bill](name)
+- my name is [Harshit](name)
+- my name is [Joe](name)
+- Yes my name is [Lucy](name)
+- my name is [Kolekar](name)
+- my name is [Bond](name)[James Bond](name)
+- call me [John](name)
+- you can call me [Thomas](name)
+- people call me [TJ](name)
+
+## intent:the system
+- [bureaucracy](category)
+- [red tape](category)
+- [charity](category)
+- [association](category)
+- [department](category)
+- [government](category)
+- [the system](category)
+
+## intent:violence
+- I was attacked by a gang of thugs
+- bully boy
+- [biting me](category)
+- [physically bullies](category)
+- [physically bullied](category)
+- [physically bullying](category)
+- [violence](category)
+- [violent](category)
+- [struck me](category)
+- [harmed me](category)
+- [abused me](category)
+- [kicking me](category)
+- [kicked my](category)
+- [slapped my](category)
+- [slapped me](category)
+- [sexually abusive](category)
+- [sexually abuses](category)
+- [sexually abused](category)
+- [spanking](category)
+- [abuses me](category)
+- [choked](category)
+- [tortured](category)
+- [grabbed](category)
+- [whaking](category)
+- [#me too](category)
+- [made a pass at](category)
+- [sexual assault](category)
+- [harassed](category)
+- [whacking](category)
+- [smacking](category)
+- [smacked](category)
+- [whacked](category)
+- [malevolence](category)
+- [punching me](category)
+- [punched me](category)
+- [hurting me](category)
+- [hitting me](category)
+- [choking me](category)
+- [shoving](category)
+- [harassing](category)
+- [attacked](category)
+- [attacking](category)
+- [sexually abuse](category)
+- [molesting](category)
+- [molested](category)
+- [raped](category)
+- [grabing](category)
+- [harming](category)
+- [bullying](category)
+- [strangling](category)
+- [beat up](category)
+- [beating me](category)
+- [assaulting](category)
+- [assaulted](category)
+- [abused by](category)
+- [abused child](category)
+- [child abuse](category)
+- [physically abused](category)
+- [physically abusive](category)
+- [physically aggressive](category)
+- [smash](category)
+- [malice](category)
+- [harm me](category)
+- [hit me](category)
+- [choke](category)
+- [strangle](category)
+- [assault](category)
+- [molest](category)
+- [weapon](category)
+- [knife](category)
+- [rape](category)
+- [grab](category)
+- [shove](category)
+- [torture](category)
+- [abuse](category)
+- [bully](category)
+- [harass](category)
+
+## intent:yes
+- go ahead
+- ok go on
+- go on then
+- continue
+- yeah exactly
+- okay that's fine
+- I agree
+- that is ok
+- I guess
+- I guess so
+- okey
+- ya
+- ye
+- ok yes
+- yes it is
+- yep
+- yew
+- yeah
+- yeah fine
+- yea fine
+- yep okay
+- fine okay
+- yup
+- YEAH
+- okay buddy
+- oh okay
+- yeah sure
+- okay cool
+- cool
+- probabaly
+- absolutely
+- sure thing
+- I certainly do
+- of course
+
+## intent:inform
+- It was january [last year](when)
+- It was [last year](when)
+- It was [last year](when) ago
+- It was [last week](when)
+- [0](strong_feel)
+- [1](strong_feel)
+- [2](strong_feel)
+- [3](strong_feel)
+- [4](strong_feel)
+- [5](strong_feel)
+- [6](strong_feel)
+- [8](strong_feel)
+- [7](strong_feel)
+- [9](strong_feel)
+- [10](strong_feel)
+- [acceptance](stage_grief)
+- [depression](stage_grief)
+- [bargaining](stage_grief)
+- [anger](stage_grief)
+- [denial](stage_grief)
+- [yes](grief_impact)
+- [no](grief_impact)
+- [yup](grief_impact)
+- [nup](grief_impact)
+- [yeah](grief_impact)
+- [nop](grief_impact)
+
+## intent:enter_data
+- I think it is almost [3](length_struggle) weeks
+- almost will take [5](length_struggle) weeks
+- it will take about [3](length_struggle) weeks
+- I am feeling for [5](length_struggle) weeks
+- [not really](pro_help)
+- [probably](pro_help)
+- [already tried](pro_help)
+- [yes](secret)
+- [no](secret)
+- [yup](secret)
+- [nup](secret)
+- I am feeling for [3](length_struggle) weeks
+- I felt like this for [3](length_struggle) weeks

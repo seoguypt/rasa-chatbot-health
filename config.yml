@@ -1,0 +1,24 @@
+language: en
+pipeline:
+- name: SpacyNLP
+- name: SpacyTokenizer
+- name: SpacyFeaturizer
+- name: RegexFeaturizer
+- name: CRFEntityExtractor
+- name: EntitySynonymMapper
+- name: SklearnIntentClassifier
+- name: ResponseSelector
+policies:
+- batch_size: 50
+  epochs: 100
+  max_training_samples: 300
+  max_history: 15
+  name: KerasPolicy
+- fallback_action_name: utter_default
+  nlu_threshold: 0.1
+  core_threshold: 0.1
+  name: FallbackPolicy
+- max_history: 15
+  name: MemoizationPolicy
+- name: FormPolicy
+- name: MappingPolicy
